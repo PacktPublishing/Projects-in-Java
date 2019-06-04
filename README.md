@@ -29,7 +29,7 @@ This course has the following software requirements:<br/>
 N/A
 
 ## Related Products
-* [Java Projects - Second Edition](https://www.packtpub.com/application-development/java-projects-second-edition)
+* [Learning Java 9 - Databases and Multithreading in Java [Video]](https://www.packtpub.com/application-development/learning-java-9-databases-and-multithreading-java-video)
 
 * [Machine Learning Projects with Java [Video]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-projects-java-video)
 
